@@ -19,3 +19,4 @@ Rails.application.routes.draw do
   get("/wizard_divide", { :controller => "division", :action => "divide_these" })
 
 end
+
